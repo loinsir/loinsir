@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <div align=center>
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Floinsir&count_bg=%2309EDEB&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
+  
 </div>
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=loinsir)](https://github.com/eungyeole/velog-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=loinsir)](https://velog.io/@loinsir)
