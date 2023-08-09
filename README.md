@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 
 
 ## Tech Blog Posts
+* [코코아 인터널스 - 3장 자동 메모리 관리](https://glassgow.tistory.com/20)
 * [[후기] 네이버 부스트캠프 웹・모바일 8기 챌린지 수료후기](https://glassgow.tistory.com/19)
 * [코코아 인터널스 - 2장 메모리 관리](https://glassgow.tistory.com/18)
 * [코코아 인터널스 - 1장](https://glassgow.tistory.com/17)
 * [[Swift] Target-Action 의 동작 원리를 알아보기](https://glassgow.tistory.com/16)
 * [[후기] 네이버 부스트캠프 웹・모바일 8기 챌린지 합격후기](https://glassgow.tistory.com/15)
-* [[iOS] 앱 Test 하기](https://glassgow.tistory.com/14)
