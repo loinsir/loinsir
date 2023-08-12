@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 
 
 ## Tech Blog Posts
+* [코코아 인터널스 - 7장 코코아 디자인 패턴](https://glassgow.tistory.com/24)
 * [코코아 인터널스 - 5장 불변 객체와 가변 객체](https://glassgow.tistory.com/23)
 * [코코아 인터널스 - 4장 객체 복사](https://glassgow.tistory.com/22)
 * [[iOS] GCD (Grand Central Dispatch)](https://glassgow.tistory.com/21)
 * [코코아 인터널스 - 3장 자동 메모리 관리](https://glassgow.tistory.com/20)
 * [[후기] 네이버 부스트캠프 웹・모바일 8기 챌린지 수료후기](https://glassgow.tistory.com/19)
-* [코코아 인터널스 - 2장 메모리 관리](https://glassgow.tistory.com/18)
