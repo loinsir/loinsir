@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 
 
 ## Tech Blog Posts
+* [코코아 인터널스 - 8장 블록과 클로저](https://glassgow.tistory.com/26)
 * [[Swift] 클래스와 구조체중 어느 것을 선택해야 할까](https://glassgow.tistory.com/25)
 * [코코아 인터널스 - 7장 코코아 디자인 패턴](https://glassgow.tistory.com/24)
 * [코코아 인터널스 - 5장 불변 객체와 가변 객체](https://glassgow.tistory.com/23)
 * [코코아 인터널스 - 4장 객체 복사](https://glassgow.tistory.com/22)
 * [[iOS] GCD (Grand Central Dispatch)](https://glassgow.tistory.com/21)
-* [코코아 인터널스 - 3장 자동 메모리 관리](https://glassgow.tistory.com/20)
