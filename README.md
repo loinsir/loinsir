@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 
 
 ## Tech Blog Posts
+* [[Swift] Array의 shuffle() 메서드 (Fisher-Yates 알고리즘)](https://glassgow.tistory.com/31)
 * [[Swift] Swift5.7 이후의 Regex](https://glassgow.tistory.com/30)
 * [[RxSwift] Observable.create 의 분석](https://glassgow.tistory.com/29)
 * [[Algorithm] Swift로 구현한 Heap](https://glassgow.tistory.com/28)
 * [코코아 인터널스 - 9장 스위프트 타입 시스템](https://glassgow.tistory.com/27)
 * [코코아 인터널스 - 8장 블록과 클로저](https://glassgow.tistory.com/26)
-* [[Swift] 클래스와 구조체중 어느 것을 선택해야 할까](https://glassgow.tistory.com/25)
