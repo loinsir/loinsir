@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 
 
 ## Tech Blog Posts
+* [[iOS 커스텀 뷰] UIScrollView의 offset값과 frame 속성을 이용해 카카오톡 페이지뷰 구현하기](https://glassgow.tistory.com/33)
+* [[SwiftUI] SwiftUI와 UIKit와의 호환](https://glassgow.tistory.com/32)
 * [[Swift] Array의 shuffle() 메서드 (Fisher-Yates 알고리즘)](https://glassgow.tistory.com/31)
 * [[Swift] Swift5.7 이후의 Regex](https://glassgow.tistory.com/30)
 * [[RxSwift] Observable.create 의 분석](https://glassgow.tistory.com/29)
 * [[Algorithm] Swift로 구현한 Heap](https://glassgow.tistory.com/28)
-* [코코아 인터널스 - 9장 스위프트 타입 시스템](https://glassgow.tistory.com/27)
-* [코코아 인터널스 - 8장 블록과 클로저](https://glassgow.tistory.com/26)
