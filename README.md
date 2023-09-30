@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 
 
 ## Tech Blog Posts
+* [[iOS] Core Animation Basic](https://glassgow.tistory.com/37)
 * [[iOS] 객체 아카이빙과 iOS 12.0 이후의 변화](https://glassgow.tistory.com/36)
 * [[Design Pattern] 옵저버 패턴 (Observer Pattern)](https://glassgow.tistory.com/35)
 * [[WWDC] Embrace Swift generics](https://glassgow.tistory.com/34)
 * [[iOS 커스텀 뷰] UIScrollView의 offset값과 frame 속성을 이용해 카카오톡 페이지뷰 구현하기](https://glassgow.tistory.com/33)
 * [[SwiftUI] SwiftUI와 UIKit와의 호환](https://glassgow.tistory.com/32)
-* [[Swift] Array의 shuffle() 메서드 (Fisher-Yates 알고리즘)](https://glassgow.tistory.com/31)
