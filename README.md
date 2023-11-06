@@ -20,8 +20,6 @@ Here are some ideas to get you started:
   
   
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=a9327370)](https://solved.ac/a9327370/)
-  
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=loinsir)](https://velog.io/@loinsir)
 </div>
 
 
