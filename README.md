@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 
 
 ## Tech Blog Posts
+* [최소 신장 트리](https://glassgow.tistory.com/45)
+* [크루스칼 알고리즘, 유니온 파인드 알고리즘](https://glassgow.tistory.com/44)
+* [벨만-포드 알고리즘](https://glassgow.tistory.com/43)
 * [[번역] SwiftNIO Readme Conceptual Overview](https://glassgow.tistory.com/42)
 * [LowerBound, UpperBound](https://glassgow.tistory.com/41)
 * [[번역] Clean Swift 패턴에서 Reactiveness가 필요없는 이유](https://glassgow.tistory.com/40)
-* [단위 테스트 - 단위 테스트 안티 패턴](https://glassgow.tistory.com/39)
-* [[Swift] Result 타입](https://glassgow.tistory.com/38)
-* [[iOS] Core Animation Basic](https://glassgow.tistory.com/37)
