@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 
 
 ## Tech Blog Posts
+* [TCA 아키텍처에서 IdentifiedArray를 사용해야 하는 이유](https://glassgow.tistory.com/52)
+* [Swift Concurrency를 공부하며 느낀점](https://glassgow.tistory.com/51)
+* [메서드 스위즐링을 적용하여 실수로부터 벗어나기](https://glassgow.tistory.com/50)
 * [swift-dependencies: Dependency lifetimes](https://glassgow.tistory.com/49)
 * [[후기] 네이버 부스트캠프 웹・모바일 8기 멤버십 수료 후기](https://glassgow.tistory.com/48)
 * [프림 알고리즘](https://glassgow.tistory.com/47)
-* [운영체제 정리](https://glassgow.tistory.com/46)
-* [최소 신장 트리](https://glassgow.tistory.com/45)
-* [크루스칼 알고리즘, 유니온 파인드 알고리즘](https://glassgow.tistory.com/44)
